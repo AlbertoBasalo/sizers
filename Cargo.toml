@@ -1,0 +1,12 @@
+[package]
+name = "sizers"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+walkdir = "2.3.2"
+csv = "1.1.6"
+mp4 = "0.14.0"
+serde = "1.0.197"
